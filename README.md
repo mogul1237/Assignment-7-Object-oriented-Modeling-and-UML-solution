@@ -1,2 +1,11 @@
 # Assignment-7-Object-oriented-Modeling-and-UML-solution
-Assignment 7 Object-oriented Modeling and UML solution
+
+Download Here: [Assignment 7 Object-oriented Modeling and UML solution](https://jarviscodinghub.com/assignment/assignment-7-object-oriented-modeling-and-uml-solution/)
+
+For Custom/Original Work email jarviscodinghub@gmail.com/whatsapp +1(541)423-7793
+
+1. Thomas the Tank Engine is a brand of children’s wooden toy train set, designed to provide hours of entertainment to children, and to liberate spare dollars from their parents (the sets are surprisingly expensive). Draw a UML class diagram of a subset of the Thomas the Tank Engine universe, as described below (please use a drawing tool for your assignment). Provide a brief explanation your decisions based on the project description.
+A train set is composed of at least 15 track pieces, at least one train vehicle, and zero or more special pieces.
+A track piece is either a curved piece, straight piece, switch, or adapter. Each track has a length, in inches. Straight pieces have road on one side, and track on the other, while all other track pieces have track on both sides. Track typically has a male end and a female end, so you can connect pieces together. Adapters are either male to male, or female to female, and come in a fixed length of two inches.
+A train vehicle is either a train engine, or a train car. All train vehicles have names, such as “Duck the PWR Panier Tank Engine”, “Gordon the Big Express Engine”, “Rusty”, and “Henry’s Forest Log Car” (all actual names). Cars may have an accessory, such as the three forest logs that come with the log car, or the circus animal that comes with the circus animal car. Some cars have no accessory. All train vehicles have a dominant color, the color that most predominates the vehicle. All train vehicles exhibit the “is compatible with” relationship with all track pieces and special pieces.
+A special piece can be either a bridge, tunnel, or building. All special pieces have a name. Bridges and tunnels definitely come with track, while a building sometimes comes with track. Buildings may be able to house a train vehicle. For example, the roundhouse can hold up to five vehicles. Some special pieces perform special operations on certain train vehicles, such as the musical circus carousel which has magnetic locations where the circus animals can stick, and thereby become part of the carousel.
